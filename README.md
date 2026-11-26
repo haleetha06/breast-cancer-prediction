@@ -45,7 +45,7 @@ Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · Jupyter No
 ## ▶️ How to Run
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/breast-cancer-prediction.git
+git clone https://github.com/haleetha06/breast-cancer-prediction.git
 cd breast-cancer-prediction
 pip install -r requirements.txt
 jupyter notebook breast_cancer_prediction.ipynb
